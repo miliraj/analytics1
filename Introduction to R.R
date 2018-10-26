@@ -56,3 +56,6 @@ rep(c(1,4), times=c(2,6))
 #clean sole by
 plot(1:10)
 version
+source('test1.R')
+source('test1.R')
+?iris
