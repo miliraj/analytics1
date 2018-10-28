@@ -4,6 +4,8 @@
 
 # library : install it first
 library(wordcloud2) 
+par(split=c(4,3))
+par(mfrow=c(4,3))
 
 # have a look to the example dataset
 head(demoFreq)
